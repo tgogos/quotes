@@ -6,6 +6,8 @@
 
 > *"We can solve any problem by introducing an extra level of indirection."* <br> -Fundamental theorem of software engineering (FTSE), a term originated by Andrew Koenig to describe a remark by Butler Lampson, attributed to the late David J. Wheeler. The theorem is often expanded by the humorous clause *"…except for the problem of too many levels of indirection"*.
 
+> *"It is not the strongest of the species that survives, It is the one that is most adaptable to change."* <br> -Charles Darwin
+
 ## from: RFC 1925
 
 >
