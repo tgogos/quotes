@@ -1,5 +1,7 @@
 # quotes
 
+> *"If we fail to understand and apply previous research, we will at best rediscover well-charted shores. At worst, we will wreck ourselves on well-charted rocks."* <br> -Niklas Nielsen @quarfot
+
 > *"To improve is to change; to be perfect is to change often."* <br> -Winston Churchill
 
 > *"Being the smartest person in the room is not enough if you don’t have the capacity to work with people who are in that room with you. When you work with and through communities of contributors as Red Hat does, where you can’t order anyone to do anything for you, your ability to listen, process, and not take everything personally becomes incredibly valuable."* <br> -Jim Whitehurst /The Open Organization
