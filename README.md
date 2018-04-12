@@ -1,5 +1,7 @@
 # quotes
 
+> *"One man’s crappy software is another man’s full time job.*" <br> -Jessica Gaston
+
 > *"If we fail to understand and apply previous research, we will at best rediscover well-charted shores. At worst, we will wreck ourselves on well-charted rocks."* <br> -Niklas Nielsen @quarfot
 
 > *"To improve is to change; to be perfect is to change often."* <br> -Winston Churchill
