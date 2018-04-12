@@ -17,6 +17,10 @@
 
 > *"It is not the strongest of the species that survives, It is the one that is most adaptable to change."* <br> -Charles Darwin
 
+## Links with quotes
+
+ - [def programming: quotes about coding](http://www.defprogramming.com/)
+
 ## from: RFC 1925
 
 >
