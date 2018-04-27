@@ -1,5 +1,7 @@
 # quotes
 
+> *"Arguing on social media is the new smoking: culturally accepted, addictive, and very bad for your health."* <br> -Ara T. Howard @drawohara
+
 > *"One man’s crappy software is another man’s full time job.*" <br> -Jessica Gaston
 
 > *"If we fail to understand and apply previous research, we will at best rediscover well-charted shores. At worst, we will wreck ourselves on well-charted rocks."* <br> -Niklas Nielsen @quarfot
