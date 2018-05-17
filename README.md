@@ -1,5 +1,7 @@
 # quotes
 
+> *"At some point I made the decision to focus on foundational concepts; not features of a particular implementation; my tech career took off."* <br> -Kelsey Hightower @kelseyhightower
+
 > *"Arguing on social media is the new smoking: culturally accepted, addictive, and very bad for your health."* <br> -Ara T. Howard @drawohara
 
 > *"One man’s crappy software is another man’s full time job.*" <br> -Jessica Gaston
