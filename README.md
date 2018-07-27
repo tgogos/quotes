@@ -1,5 +1,8 @@
 # quotes
 
+> *"If a manager wants to run a stable project, he would do well to follow this simple maxim: If a programmer is indispensable, get rid of him as quickly as possible."* <br> -Gerald M. Weinberg, The Psychology of Computer Programming
+
+
 > *"At some point I made the decision to focus on foundational concepts; not features of a particular implementation; my tech career took off."* <br> -Kelsey Hightower @kelseyhightower
 
 > *"Arguing on social media is the new smoking: culturally accepted, addictive, and very bad for your health."* <br> -Ara T. Howard @drawohara
