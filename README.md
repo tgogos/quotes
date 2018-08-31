@@ -1,5 +1,7 @@
 # quotes
 
+> *"Everybody has a plan until the get punched in the face..."* <br> -Mike Tyson
+
 > *"The faster the speed the bigger the mess"*
 
 > *"If a manager wants to run a stable project, he would do well to follow this simple maxim: If a programmer is indispensable, get rid of him as quickly as possible."* <br> -Gerald M. Weinberg, The Psychology of Computer Programming
