@@ -1,5 +1,7 @@
 # quotes
 
+> *...the purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise.* <br> -Edsger W. Dijkstra, [The Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+
 > *"Everybody has a plan until the get punched in the face..."* <br> -Mike Tyson
 
 > *"The faster the speed the bigger the mess"*
