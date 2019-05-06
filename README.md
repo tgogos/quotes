@@ -1,5 +1,9 @@
 # quotes
 
+> *Complexity is what smart people do.*<br>
+> *Simplicity is what smart people **who must live with the consequences of their design** do.*
+<br> -[tweet](https://twitter.com/wickett/status/1124394261657653248)
+
 > *Computerizing an existing mess ends up being a computerized mess.* 
 <br> -John Chamberlain [tweet](https://twitter.com/misterchambo/status/1080669367585656832)
 
