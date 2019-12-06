@@ -1,5 +1,8 @@
 # quotes
 
+> *Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.*
+<br>-Edsger Wybe Dijkstra
+
 > *Complexity is what smart people do.*<br>
 > *Simplicity is what smart people **who must live with the consequences of their design** do.*
 <br> -[tweet](https://twitter.com/wickett/status/1124394261657653248)
