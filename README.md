@@ -1,5 +1,8 @@
 # quotes
 
+> *People have a complicated relationship with change. I like to say that nerds especially have a really complicated relationship with change. "We love it to pieces! Change is awesome... when we're the ones doing it..."*
+<br> - Benno Rice at ["The tragedy of systemd"](https://www.youtube.com/watch?v=o_AIw9bGogo&t=1525)
+
 > *Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.*
 <br>-Edsger Wybe Dijkstra
 
