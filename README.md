@@ -1,5 +1,8 @@
 # quotes
 
+> *In tech we need a role where a person provides historical context and commentary on ongoing tradeoff discussions. That’s it, that’s the job.*
+<br> -Jaana B. Dogan [tweet](https://twitter.com/rakyll/status/1204084195644997632)
+
 > *People have a complicated relationship with change. I like to say that nerds especially have a really complicated relationship with change. "We love it to pieces! Change is awesome... when we're the ones doing it..."*
 <br> - Benno Rice at ["The Tragedy of systemd"](https://www.youtube.com/watch?v=o_AIw9bGogo&t=1525)
 
