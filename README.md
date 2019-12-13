@@ -1,5 +1,8 @@
 # quotes
 
+> *“Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.”*
+<br>-Ernst F. Schumacher*
+
 > *In tech we need a role where a person provides historical context and commentary on ongoing tradeoff discussions. That’s it, that’s the job.*
 <br> -Jaana B. Dogan [tweet](https://twitter.com/rakyll/status/1204084195644997632)
 
