@@ -1,5 +1,8 @@
 # quotes
 
+> *"Everything we do before a **pandemic** will seem alarmist. Everything we do after will seem inadequate."
+<br>-Michael Leavitt*
+
 > *“Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.”*
 <br>-Ernst F. Schumacher*
 
