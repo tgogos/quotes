@@ -55,6 +55,8 @@
 > *There's a ton of pedantry in programming. This may be confusing until you realize that programmers spend 8+ hours a day working with the world's most irritating pedant -- the computer. And the computer is .. kind of an a-hole to be honest.*
 <br> Jeff Atwood, 10:42 PM · Apr 12, 2019 [tweet](https://twitter.com/codinghorror/status/1116788620214460416)
 
+> *Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.* <br> -Kurt Vonnegut
+
 ## Links with quotes
 
  - [def programming: quotes about coding](http://www.defprogramming.com/)
